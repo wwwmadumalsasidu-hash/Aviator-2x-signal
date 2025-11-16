@@ -1,0 +1,28 @@
+{
+  "devices": [
+    {
+      "device_id": "1234567890ABCDEF",
+      "password": "pasiya2025",
+      "activation_date": "2025-01-10",
+      "expire_date": "2025-01-12",
+      "status": "active",
+      "notes": "Daily 2 days package"
+    },
+    {
+      "device_id": "A1B2C3D4E5F6G7H8",
+      "password": "avi2025",
+      "activation_date": "2025-01-01",
+      "expire_date": "2025-02-01",
+      "status": "active",
+      "notes": "Monthly package"
+    },
+    {
+      "device_id": "XYZ-888-777-555",
+      "password": "lifetimekey",
+      "activation_date": "2025-01-05",
+      "expire_date": "lifetime",
+      "status": "active",
+      "notes": "Lifetime access"
+    }
+  ]
+}
