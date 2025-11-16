@@ -1,13 +1,19 @@
 {
-  "DEV_145": {
-    "password": "12345",
-    "activation": "2025-11-16",
+  "DEV_156": {
+    "password": "1234",
+    "activation": "2025-11-15",
     "expiry": "2025-12-31"
   },
 
-  "DEV_167": {
-    "password": "99999",
-    "activation": "2025-02-01",
-    "expiry": "2025-03-01"
+  "DEV_41": {
+    "password": "pass2025",
+    "activation": "2025-02-10",
+    "expiry": "2025-06-15"
+  },
+
+  "DEV_50": {
+    "password": "9999",
+    "activation": "2025-03-01",
+    "expiry": "2026-03-01"
   }
 }
