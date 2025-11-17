@@ -11,9 +11,9 @@
     "expiry": "2026-06-15"
   },
 
-  "DEV_50": {
-    "password": "9999",
-    "activation": "2025-03-01",
-    "expiry": "2026-03-01"
+  "DEV_162": {
+    "password": "5678",
+    "activation": "2025-11-16",
+    "expiry": "2025-11-18"
   }
 }
