@@ -15,5 +15,11 @@
     "password": "5678",
     "activation": "2025-11-16",
     "expiry": "2025-11-18"
+  },
+
+  "DEV_160": {
+    "password": "adeesha12",
+    "activation": "2025-11-16",
+    "expiry": "2025-11-18"
   }
 }
